@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintVertical_bias="0.2">
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/etMessage"
+        android:layout_width="328dp"
+        android:layout_height="279dp"
+        android:background="@color/orange_200"
+        android:ems="10"
+        android:gravity="top"
+        android:inputType="textPersonName"
+        android:padding="5dp"
+        android:textColor="@color/orange_700"
+        app:layout_constraintEnd_toEndOf="@+id/etNumber"
+        app:layout_constraintStart_toStartOf="@+id/etNumber"
+        app:layout_constraintTop_toBottomOf="@+id/etNumber" />
+
+    <EditText
+        android:id="@+id/etNumber"
+        android:layout_width="328dp"
+        android:layout_height="53dp"
+        android:layout_marginBottom="576dp"
+        android:background="@color/orange_700"
+        android:drawableStart="@drawable/ic_baseline_phone_24"
+        android:drawablePadding="5dp"
+        android:gravity="center_vertical"
+        android:hint="Sender"
+        android:padding="3dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.518"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintVertical_bias="0.174" />
+
+    <TextView
+        android:id="@+id/tvMessageTime"
+        android:layout_width="329dp"
+        android:layout_height="44dp"
+        android:background="@color/gray_light"
+        android:clickable="true"
+        android:drawableStart="@drawable/ic_baseline_calendar_month_24"
+        android:drawablePadding="5dp"
+        android:ems="10"
+        android:gravity="center_vertical"
+        android:text="Date time"
+        android:textColor="@color/gray"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@+id/btMessageSetup"
+        app:layout_constraintEnd_toEndOf="@+id/etMessage"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/etMessage"
+        app:layout_constraintTop_toBottomOf="@+id/etMessage"
+        app:layout_constraintVertical_bias="0.794" />
+
+    <Button
+        android:id="@+id/btMessageSetup"
+        android:layout_width="332dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="152dp"
+        android:text="SET UP"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/etMessage"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/etMessage" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

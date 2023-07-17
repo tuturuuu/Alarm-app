@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="@color/gray">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintVertical_bias="0.2">
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/etAlarmMessage"
+        android:layout_width="328dp"
+        android:layout_height="279dp"
+        android:background="@color/orange_500"
+        android:ems="10"
+        android:gravity="top"
+        android:hint="Message"
+        android:inputType="textPersonName"
+        android:padding="5dp"
+        android:textColor="@color/orange_700"
+        android:textColorHint="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.469"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.508" />
+
+    <TextView
+        android:id="@+id/tvAlarmTime"
+        android:layout_width="330dp"
+        android:layout_height="39dp"
+        android:layout_marginTop="24dp"
+        android:background="@color/gray_light"
+        android:drawableStart="@drawable/ic_baseline_calendar_month_24"
+        android:drawablePadding="5dp"
+        android:ems="10"
+        android:gravity="center_vertical"
+        android:inputType="textPersonName"
+        android:text="Time"
+        android:textColor="@color/gray"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="@+id/etAlarmMessage"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/etAlarmMessage"
+        app:layout_constraintTop_toBottomOf="@+id/etAlarmMessage" />
+
+    <Button
+        android:id="@+id/btAlarmSetup"
+        android:layout_width="332dp"
+        android:layout_height="50dp"
+        android:backgroundTint="@color/orange_700"
+        android:text="SET UP"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="@+id/tvAlarmTime"
+        app:layout_constraintStart_toStartOf="@+id/tvAlarmTime"
+        app:layout_constraintTop_toBottomOf="@+id/tvAlarmTime" />
+
+    <TextView
+        android:layout_width="275dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="20dp"
+        android:text="Wake up me!"
+        android:textSize="48sp"
+        app:layout_constraintBottom_toTopOf="@+id/etAlarmMessage"
+        app:layout_constraintStart_toStartOf="@+id/etAlarmMessage" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

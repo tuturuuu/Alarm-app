@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/3D Objects/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/layout/activity_alarm.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/3D Objects/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/layout/pending_alarm.xml" value="0.34010416666666665" />
+        <entry key="..\:/Users/Admin/3D Objects/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/layout/pending_call.xml" value="0.34010416666666665" />
+        <entry key="..\:/Users/Admin/3D Objects/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/layout/pending_sms.xml" value="0.34010416666666665" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/drawable/bg_divider.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/drawable/bg_rect.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/drawable/ic_alarm.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/drawable/ic_baseline_alarm_24.xml" value="0.1805" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/drawable/ic_baseline_calendar_month_24.xml" value="0.247" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.247" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/drawable/ic_call.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/drawable/ic_menu.xml" value="0.149" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/layout/action_bar.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/layout/activity_alarm.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/layout/activity_m001_act_menu.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/layout/activity_main.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/layout/bg_divider.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/layout/custom_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/layout/drawer_view.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/layout/fragment_alarm.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/layout/fragment_m002_s_m_s_frg.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/layout/fragment_m003_phone_frg.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/layout/fragment_m004_a_l_a_r_m_frg.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/layout/fragment_m005_list_alarm_frg.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/layout/item_alarm.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/layout/nav_header.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/layout/pending_alarm.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/layout/pending_call.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/layout/pending_sms.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/layout/view_alarm.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Documents/Work/Funix/Android/PRM391x_asm2option1_vietpmFX10943/app/src/main/res/menu/drawer_view.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
